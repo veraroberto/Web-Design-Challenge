@@ -1,0 +1,29 @@
+@media only screen and (max-width: 768px) {
+    .navbar  {
+      background-color: #60B4AF;
+      color: white;
+
+    }
+    .nav-item {
+        background-color: #60B4AF;;
+    
+    }
+    .dropdown-menu {
+        background-color: #60B4AF;
+        color: white;
+        border-color: green;
+    }
+ 
+    .dropdown{
+        color: white;
+    }
+
+
+
+  }
+
+.container{
+    padding: 3%;
+    margin-top: 20in;
+  }
+  
