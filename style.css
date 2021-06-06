@@ -18,12 +18,33 @@
         color: white;
     }
 
-
-
-  }
-
-.container{
-    padding: 3%;
-    margin-top: 20in;
   }
   
+h1{
+    color: #60B4AF;
+    font-size: 35px;
+    font-weight: bold;
+
+}
+h4{
+    color: #60B4AF;
+    text-align: center;
+    margin-top: 0.5%;
+}
+body{
+    background-color:rgb(237,237,237);
+}
+.container{
+    background-color: white;
+    margin-top: 2%;
+   
+}
+.container-fluid{
+    background-color: white; 
+}
+.box{
+    background-color: #60B4AF; 
+    color: white; 
+    padding: 0.5%;
+}
+
