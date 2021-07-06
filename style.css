@@ -59,10 +59,17 @@ body{
         background-color: #60B4AF;
         color: white;
         border-color: green;
-    } */
+    } 
+    
+}
 /*  
     .dropdown{
         color: white;
     } */
 
-}
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }

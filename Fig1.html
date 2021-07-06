@@ -21,8 +21,10 @@
 <body>
     <nav class="navbar navbar-expand-md navbar-light">
         <div class="container-fluid">
-            <div class="box" style="    background-color: #60B4AF; color: white; padding: 0.5%;">
-                Latitude</div>
+            <div class="box" style="background-color: #60B4AF; color: white; padding: 0.5%;">
+                
+                <a href="index.html">Latitude</a> 
+            </div>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -33,32 +35,34 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto">
 
-                    <li class="nav-item dropdown">
+                    <li class="dropdown">
 
-
+                        <!-- <li class="dropdown"> -->
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
                             data-toggle="dropdown" aria-expanded="false">
-                            Plots</a>
+                            Plots
+                            <span class="caret"></span>
+                        </a>
 
-
+                        <!-- </li> -->
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="Fig1.html">City Latitude vs Max Temperature</a></li>
-                            <li><a class="dropdown-item" href="Fig2.html">City Latitude vs Humidity</a></li>
-                            <li><a class="dropdown-item" href="Fig3.html">City Latitude vs Cloudinesse</a></li>
-                            <li><a class="dropdown-item" href="Fig4.html">City Latitude vs Wind Speed</a></li>
+                            <li><a class="dropdown-item" href="Fig1.html">Max Temperature</a></li>
+                            <li><a class="dropdown-item" href="Fig2.html">Humidity</a></li>
+                            <li><a class="dropdown-item" href="Fig3.html">Cloudinesse</a></li>
+                            <li><a class="dropdown-item" href="Fig4.html">Wind Speed</a></li>
 
                         </ul>
-                    </li>
+                        <!-- </li> -->
 
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page">Comparison</a>
+                        <a class="nav-link" href="Comparison.html">Comparison</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="Data.html">Data</a>
                     </li>
-
-
                 </ul>
+
+
 
             </div>
         </div>
