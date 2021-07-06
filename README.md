@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-You can see the page [here](href="https://veraroberto.github.io/Web-Design-Challenge/index.html")
+You can check out the app [Here](https://veraroberto.github.io/Web-Design-Challenge/index.html)
 
 <img src="Resources/assets/images/Fig1.png" alt="Max Temp">
 
